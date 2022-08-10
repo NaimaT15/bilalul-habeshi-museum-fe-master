@@ -1,0 +1,16 @@
+nav {
+    a {
+        color: #ffffff;
+        &:hover {
+            color: #56a94f;
+            background-color: #00000065;
+        }
+    }
+    .dropdown-menu {
+        background-color: black;
+    }
+}
+.brand-image {
+    max-width: 20%;
+    max-height: 20%;
+}
